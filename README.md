@@ -2,7 +2,7 @@
 
 M.Tech (CSE) student at NIT Delhi. I like building full-stack projects and tinkering with deep learning / data science on the side.
 
-- 🌐 [Portfolio](https://animesh2102.github.io)
+- 🌐 [Portfolio]()
 - 💼 [LinkedIn](https://www.linkedin.com/in/animesh-kumar-95a78b265)
 - 📫 [Mail](akmarantu999@gmail.com)
 
