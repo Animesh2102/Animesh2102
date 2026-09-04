@@ -1,6 +1,6 @@
 ### Hi, I'm Animesh 👋
 
-M.Tech (CSE) student at NIT Delhi. I like building full-stack projects and tinkering with deep learning / data science on the side.
+M.Tech (CSE) student. I like building full-stack projects and tinkering with deep learning / data science on the side.
 
 - 🌐 [Portfolio]()
 - 💼 [LinkedIn](https://www.linkedin.com/in/animesh-kumar-95a78b265)
