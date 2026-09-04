@@ -12,6 +12,4 @@ M.Tech (CSE) student. I like building full-stack projects and tinkering with dee
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### GitHub Stats
-![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animesh2102&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh2102&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Animesh2102&theme=tokyonight)](https://github.com/Animesh2102)
