@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 M.Tech (CSE) student at NIT Delhi. I like building full-stack projects and tinkering with deep learning / data science on the side.
 
 - 🌐 Portfolio: [animesh2102.github.io](https://animesh2102.github.io)
-- 💼 [LinkedIn]([https://linkedin.com/in/REPLACE-ME](https://www.linkedin.com/in/animesh-kumar-95a78b265)) &nbsp;·&nbsp; 📫 akmarantu999@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/animesh-kumar-95a78b265) &nbsp;·&nbsp; 📫 akmarantu999@gmail.com
 
 ### Tech Stack
 
