@@ -1,9 +1,8 @@
 ### Hi, I'm Animesh 👋
 M.Tech (CSE) student. I like building full-stack projects and tinkering with deep learning / data science on the side.
-- 🌐 [Portfolio](https://animesh2102.github.io)
+- 🌐 [Portfolio]()
 - 💼 [LinkedIn](https://www.linkedin.com/in/animesh-kumar-95a78b265)
 - 📫 [Mail](mailto:akmarantu999@gmail.com)
-- 
 ### Tech Stack
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
